@@ -20,6 +20,8 @@ This is a online market app. You can sell or buy any items here
 -run commands:-
  python manage.py makemigrations        #this will create req tables into database
  python manage.py migrate                #this will migrate the fields into database,or apply the changes
+ 
+ after executing the above commands then the application will be running properly
 
 -finally run:
 python manage.py runserver 
